@@ -17,10 +17,26 @@ h1 {
 #principal {
     text-align: center;
     background-color: rgb(67, 113, 115);
-    color: white;
+    color: rgb(15, 14, 14);
 }
 
 h2 {
     color: rgb(37, 72, 107);
 }
+.basico {
+    color: rgb(37, 72, 107);
+}
 
+.intermediario {
+    color: rgb(17, 86, 63);
+
+}
+
+.avancado {
+    color: brown;
+
+}
+
+.destaque {
+    background-color: rgba(131, 39, 217, 0.322);
+}
